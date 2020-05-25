@@ -73,7 +73,6 @@
 - SK
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
-- [Sagar-AArya](https://github.com/Sagar-AArya)
 - [Megan Thong](https://github.com/pikamegan)
 - [theerrors](https://github.com/TheErrrors)
 - [Olatunji Dolapo](https://github.com/nofeesahdee)
@@ -1321,7 +1320,6 @@
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨💻](https://github.com/barhouum7)
 - [Josh Favre](http://github.com/Jofa11)
-- [Sagar AArya](https://github.com/Sagar-AArya)
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
 - [Shreya Choubey](https://github.com/shreyachoubey29)
